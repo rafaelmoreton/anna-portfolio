@@ -270,5 +270,9 @@ h2 {
 }
 
 .modal-dialog {
-	min-width: 90%;
+	min-width: 80vw;
+}
+
+.modal-body > div > div > img {
+	margin: auto;
 }
