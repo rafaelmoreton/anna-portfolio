@@ -278,16 +278,16 @@ h2 {
 	margin: auto;
 }
 
-.sigma-section-header > div > h1, .site-title > h1 {
+.sigma-section-header > div > h1, .site-title > h1, #contact h3 {
 	font-family: "Raleway", sans-serif;
 	text-transform: uppercase;
 }
 
-.site-title > h1 {
+.site-title > h1, #contact p {
 	color: #0911e2;
 }
 
-.sigma-section-header > div > h1 {
+.sigma-section-header > div > h1, #contact h3 {
 	color: #f50006;
 	font-weight: 900;
 }
