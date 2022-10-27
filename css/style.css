@@ -283,6 +283,19 @@ h2 {
 	text-transform: uppercase;
 }
 
+.site-title > h1 {
+	color: #0911e2;
+}
+
+.sigma-section-header > div > h1 {
+	color: #f50006;
+	font-weight: 900;
+}
+
+.sigma-section-header > div > p {
+	color: #222425;
+}
+
 .site-title h2 {
 	font-size: 18px;
 }
